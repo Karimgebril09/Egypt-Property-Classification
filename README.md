@@ -1,13 +1,4 @@
-# Data Science Project — Apartment Price Prediction
-
-## Team Members
-
-- Mariam Amin
-- Karim Mahmoud
-- Khalid ElGammal
-- Ahmed Mostafa Bakr
-
----
+# Data Science Project — Egypt Property Classification
 
 ## Overview
 
